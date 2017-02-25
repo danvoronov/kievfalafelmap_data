@@ -1,0 +1,1677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iu1sc3qp0",
+        "title": "КПИ общаги шаурма",
+        "description": "на углу",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.452803,
+          50.446823
+        ]
+      },
+      "id": "02bc553b323acb55cabccc6d7bdbce2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it3bj29e0",
+        "title": "Happy Doner на рынке Дарница",
+        "description": "18 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.614811,
+          50.455791
+        ]
+      },
+      "id": "0494f3c0a815c7d37e5916235e96beb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is5o1ida0",
+        "title": "КПИ точка крымских татар",
+        "description": "25 грн _ 35 грн двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения.",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.454353,
+          50.446256
+        ]
+      },
+      "id": "061a7b6ec6de56350bf3254f7fe48a74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ix6735pd0",
+        "title": "Шаурма на Майдане",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521999,
+          50.450642
+        ]
+      },
+      "id": "0d03510252982422c4ea8458cb2e4957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9sqbc24",
+        "title": "(24) DONER HOUSE в Бесарабском рынке",
+        "description": "18 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521864,
+          50.442153
+        ]
+      },
+      "id": "0d238c2eda023eaa77c87af33d6de8c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9tcrl3i",
+        "title": "One Planet (Vegano hooligano) кафе",
+        "description": "фалафель 78 грн  == https://www.facebook.com/oneplanetfamily/",
+        "marker-size": "medium",
+        "marker-color": "#7ec9b1",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.509757,
+          50.460437
+        ]
+      },
+      "id": "0ea372b7eb52b9580b0998113df3fa02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioluy5rf0",
+        "title": "в тоннеле перехода от Осокорков",
+        "description": "26 грн",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.617351,
+          50.396796
+        ]
+      },
+      "id": "11c413b9a3cb9b0e6f436546ba781dfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iyasre6e0",
+        "title": "Машина-киоск у выхода из перехода к цирку",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.491673,
+          50.447345
+        ]
+      },
+      "id": "126c9b6b0499e7482b31372c65b3a8b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9srtif6",
+        "title": "Кипиш (кошерный фастфуд)",
+        "description": "35 грн = интересные соусы, но по ощущениям маловат по размеру",
+        "marker-size": "medium",
+        "marker-color": "#b7ddf3",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520582,
+          50.438781
+        ]
+      },
+      "id": "149c2617075960e502a2d13390d2f7b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iudqj8b91",
+        "title": "Шаурма на колёсах",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520865,
+          50.420779
+        ]
+      },
+      "id": "15a12b77b741ac9afb76c9dcfc81f07f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwhohbkj0",
+        "title": "Street Food King на подоле",
+        "description": "35 грн вариант лаваш или батон = хумус, огурцы солёные. || https://vk.com/street_food_king",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516162,
+          50.464675
+        ]
+      },
+      "id": "18c7dcc9c1b2eeb7ee72efe5dbd3f7ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iqj3zk6f0",
+        "title": "Шаурмешная Султан на рынке Борщаговка, ул Тулузы",
+        "description": "18 грн",
+        "marker-size": "medium",
+        "marker-color": "#9c89cc",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3651,
+          50.429979
+        ]
+      },
+      "id": "19c2b737370fb120271b106199c97c75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioddg7oj1",
+        "title": "\"Смач Кебаб\" = справа в кластере шавермы у выхода Вокзала",
+        "description": "цена нигде не написана - мне сказал 20 грн половинный // 25 грн обычный",
+        "marker-size": "medium",
+        "marker-color": "#f5c272",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.488899,
+          50.441297
+        ]
+      },
+      "id": "1ab77d9d244fda4c9e6caf93f9137e5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iq1wsack0",
+        "title": "Шаурма киоск на улице у входа в м. Дружбы Народов",
+        "description": "24 грн // хумуса нет, красный соус чересчур острый, огурцы солёно-острые, фалафелены суховаты.",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.544314,
+          50.418013
+        ]
+      },
+      "id": "1d0c8242e08f3d925e3b155528d1735a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irwhjk9s1",
+        "title": "На мине-рыночке возле конечной трамвая на Кольцевой",
+        "description": "не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.366784,
+          50.425869
+        ]
+      },
+      "id": "1dafce805c899c36beeab42125b3a7df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipnp6ump0",
+        "title": "у \"Поляны\" КПИ ",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.453945,
+          50.446754
+        ]
+      },
+      "id": "24e618985150b357089fa497649c7176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iol88hhx6",
+        "title": " Burger Farm кафе",
+        "description": "фалафель шарики с тхиной (без лаваша) 20грн   \n  ! Фалафель-бургер 55 грн",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.496501,
+          50.446355
+        ]
+      },
+      "id": "25197bd06c53538dee57663f1f7d5c4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irsr8t750",
+        "title": "Вход в переход = MC Doner",
+        "description": "поменялся владелец - пока фалафеля нет",
+        "marker-size": "medium",
+        "marker-color": "#ede8e4",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522336,
+          50.440943
+        ]
+      },
+      "id": "2d24701a9fcfadc6ab3f94072b669326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iui5cix10",
+        "title": "MRfalafel ВДНХ",
+        "description": "уже закрыто. куда то опять переехали",
+        "marker-size": "medium",
+        "marker-color": "#ffffff",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.47788,
+          50.381578
+        ]
+      },
+      "id": "325e1a3ab979bf9c41582192f026bfac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipsxh5q61",
+        "title": "у конечной трамвая",
+        "description": "? не проверенное",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.489099,
+          50.443499
+        ]
+      },
+      "id": "349dc360b50d476eae003ade0de83aa9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iql77b7m1",
+        "title": "Шаурма на колёсах",
+        "description": "15 грн (самый дешевый в городе)",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.384309,
+          50.430002
+        ]
+      },
+      "id": "3a1a7c1c56d3b0d959f7fb20cd6236ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ip3q64ay0",
+        "title": "Киоск напротив остановки Нивки",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.406052,
+          50.459976
+        ]
+      },
+      "id": "3b35feb7fc3f98aa7cf5bcdf16be660e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iudql0bl2",
+        "title": "КАФЕ в Изоляции, 2 этаж",
+        "description": "40 грн - готовят не каждый день/неделю. готовят к 12:00, дальше в наличии до 20:00 пока не закончится  // в торце выставочного зала. можно в фб спрашивать когда есть",
+        "marker-size": "medium",
+        "marker-color": "#3ca0d3",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.507885,
+          50.476598
+        ]
+      },
+      "id": "3d7cc513b462ebbec2083311f55690a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwiczan51",
+        "title": "Площадь Cковороды, возле академии",
+        "description": "18 грн мини - 27 стандарт = хумус  // одинадцатый фалафель бесплатно",
+        "marker-size": "medium",
+        "marker-color": "#c5e96f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.519011,
+          50.464248
+        ]
+      },
+      "id": "457c6e355022fa41e9306d6570c85374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it3c1r2a0",
+        "title": "\"Царица Клеопатра\" напротив выхода из метро КПИ",
+        "description": "22 грн / хумуса нет. Киоск закрытого типа, чисто.",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.466745,
+          50.450519
+        ]
+      },
+      "id": "464001286bdbf76e95e9ff6282a54270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iszw56rl0",
+        "title": "ВДНХ.Шаурма у остановки маршруток",
+        "description": "24 грн / даже не острый вариант весьма острый",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.476921,
+          50.381241
+        ]
+      },
+      "id": "4f439ba55ee88066649c9732ea9dc646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iw4psf020",
+        "title": "Drink-Food киоск на Подоле",
+        "description": "ЗАКРЫЛИСЬ после месяца работы ===   мини 30 грн // стандарт 45 грн // макс 60 грн = хумус и яблочный соус",
+        "marker-size": "medium",
+        "marker-color": "#ffffff",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516725,
+          50.464743
+        ]
+      },
+      "id": "4f4d5cbbdc4377c029bd0136dcd27474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9sw7lkb",
+        "title": "тот самый ХАСАН",
+        "description": "легендарный фалафель. до 18:00 + пон выходной   = от 25 грн и можно с разными мясными добавками / батоне",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.642907,
+          50.46224
+        ]
+      },
+      "id": "5565cb5f8284bee2e3de569665b8861f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iol70weq2",
+        "title": "Фудкорт Сильпо.Гуливер",
+        "description": "22 грн = с правой стороны куба футкорта (шаурма)",
+        "marker-size": "medium",
+        "marker-color": "#9c89cc",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522691,
+          50.438566
+        ]
+      },
+      "id": "57964454372c7a05f261340cebcb61ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iqaluo7u0",
+        "title": "Академгородок",
+        "description": "? не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#cccccc",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.355246,
+          50.46403
+        ]
+      },
+      "id": "596a0dc8296e48ae4a06329df0e69042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is2xl4o14",
+        "title": "Берестейская",
+        "description": "не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.419844,
+          50.458048
+        ]
+      },
+      "id": "5bb1138e8a61b698d186eadaecea796e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9spraj3",
+        "title": "LinasCAFE в Бесарабском рынке",
+        "description": "Можно заказать с собой. выйти подождать и вернутся забрать по чеку",
+        "marker-size": "medium",
+        "marker-color": "#9c89cc",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521076,
+          50.442238
+        ]
+      },
+      "id": "5d99006110179913698c65fb692483af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iqj2kojq0",
+        "title": "Киоск Шаурма на рынке у Минcкой",
+        "description": "28 грн",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.497789,
+          50.511516
+        ]
+      },
+      "id": "5db99f76829f28eb8e19287afb9a411f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iqvf9nl60",
+        "title": "Смач кебаб = остановка тролейбусов Петровка",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.500342,
+          50.488784
+        ]
+      },
+      "id": "5e461de8acc06ac7beca20aaca9c6449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iqvfc90r1",
+        "title": "Хот Мит по Сирийски",
+        "description": "25 грн, огурцы свежие",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49847,
+          50.487193
+        ]
+      },
+      "id": "5fdf5061adf0d622455e8a29c0986093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9sycdue",
+        "title": "Хамса в секонде, SnackBar ",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f5c272",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.642977,
+          50.462401
+        ]
+      },
+      "id": "6b0e431311e5db70065a5c0c6ff101cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is2vmrf41",
+        "title": "Шаурма киоск возле автостанции",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.510206,
+          50.465103
+        ]
+      },
+      "id": "6b2f1b43b9117a7586e3c2b7a10114db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-its9sd3v0",
+        "title": "Киоск на колесах у пешеходного моста",
+        "description": "работал летом и в сентябре",
+        "marker-size": "medium",
+        "marker-color": "#ffffff",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.536075,
+          50.458717
+        ]
+      },
+      "id": "6e4ec29febc46fa729392092ead1207f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9ste9p8",
+        "title": "№1 = в переходе Севастопольской пл",
+        "description": "28 грн",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.459283,
+          50.425485
+        ]
+      },
+      "id": "70f37ab760eac85fba0431923ff3b570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iol64cdf1",
+        "title": "Петровка хозрынок",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#f1f075",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49737,
+          50.488354
+        ]
+      },
+      "id": "782f583c3f298697c3f348d7f75359fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9t26fkg",
+        "title": "Sultan Basha = в заброшенном доме напротив паркинга ТЦ \"Украина\"",
+        "description": "25 грн стандарт // 30 грн // двойной 35 грн\nлук добовляют. огурцы соленые. картошка входит.\nмухи летают, тараканы бегают -  а вкусно.\n\nhttps://ru.foursquare.com/v/halal-d%C3%B6ner-and-falafel/4cc9ad2cbcb1b1f757b9108a",
+        "marker-size": "medium",
+        "marker-color": "#677da7",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.493916,
+          50.445535
+        ]
+      },
+      "id": "7bfc5038388dcb2bfff5901c7219d8c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwty7v840",
+        "title": "Окно с шаурмой у выхода из перехода",
+        "description": "30 грн",
+        "marker-size": "medium",
+        "marker-color": "#f5c272",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.512037,
+          50.466546
+        ]
+      },
+      "id": "7f5179268825c8669bef8718d43194e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9y588i2",
+        "title": "Їмо стоячи на ВДНХ",
+        "description": "24 грн / хумуса нет, огурцы солёные",
+        "marker-size": "medium",
+        "marker-color": "#f1f075",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.477184,
+          50.381395
+        ]
+      },
+      "id": "80221ccc17db61ac887ab1b7556fdea4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9svh43a",
+        "title": "Mr.Gyros  №1 у правого входа в м.Левобережная",
+        "description": "20 грн на выбор в лаваше или пите. огурцы свежие.\n instagram.com/mr.gyros/",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.59945,
+          50.45196
+        ]
+      },
+      "id": "8163dd0b14f72ffdeb7a6629ea32d15c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivmu5sn70",
+        "title": "Шаурма.Бомба автомобиль",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.499082,
+          50.510037
+        ]
+      },
+      "id": "81cbc6f1a081dc4d5123958bc31937f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipxt1sz81",
+        "title": "Донер = Справа от входа в м Шулявка",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445722,
+          50.454969
+        ]
+      },
+      "id": "83577a1771e231b4ef7783e63fc3b5a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipsxfj690",
+        "title": "Сбоку на  кругу транспорта",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.491105,
+          50.440872
+        ]
+      },
+      "id": "83836ea6e0b8e553f198285b608fcec2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iu6rvy660",
+        "title": "Шаурма в проходе на Бориспольской",
+        "description": "30 грн",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.683022,
+          50.403638
+        ]
+      },
+      "id": "8588d04a27ae971a8008f3d976e03df8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iolv5rw50",
+        "title": "Киоск \"Бургерная\" = слева от выхода из перехода в сторону Сильпо",
+        "description": "25 грн // заворачивают в хорошую бумагу",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447361,
+          50.454083
+        ]
+      },
+      "id": "8bbd5ed2640d0f3eb0fed8a3f2ff1e77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwicxwz90",
+        "title": "Sultan Food на Гната Юри 9",
+        "description": "не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.384782,
+          50.431383
+        ]
+      },
+      "id": "8bfc327d6668286bc9519abf69120365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iq45h4lu0",
+        "title": "Киоск \"Тандыр\" напротив тыла синагоги",
+        "description": "24 в лаваше // 26 в пите",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520837,
+          50.43826
+        ]
+      },
+      "id": "8edba6776423b44cecce7f4ec4bb1e0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is2wnspt3",
+        "title": "Sultan 24 FOOD, шулявка",
+        "description": "25 грн  https://vk.com/id361274696  == одна из двух точек, вторая на борщаговке",
+        "marker-size": "medium",
+        "marker-color": "#9c89cc",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446532,
+          50.454662
+        ]
+      },
+      "id": "923abdfd178d24dd18cab908ba039967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is2vbsl20",
+        "title": "У входа в дарынок",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.643358,
+          50.462247
+        ]
+      },
+      "id": "982b5561d26cb679d67b7d934b582e7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it2mgspu0",
+        "title": "LinasCAFE, НАУ",
+        "description": "? не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.430744,
+          50.440766
+        ]
+      },
+      "id": "98655efca27751360507ad0ed06eb8de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9soer71",
+        "title": "Дверь №1 и №2 вход в Бесарабский рынок со стороны Пузатой",
+        "description": "18грн (+2 грн хумус) = тут розовый лаваш ;)",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522127,
+          50.442235
+        ]
+      },
+      "id": "9b8a8b8b74e93f650f350f095ead8d8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it9tg8ce0",
+        "title": "(когда есть) Фестиваль уличной еды на Арт-заводе Платформа",
+        "description": "несколько точек с фалафелем. плата за вход + 46-70 грн",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.640439,
+          50.460393
+        ]
+      },
+      "id": "9d94cc071e8102cd8e319aa7633c2345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iso9fsnw0",
+        "title": "Vegi Street = ТЦ \"Дарница\", 4-й этаж",
+        "description": "35 грн много капусты / летом не работал, осенью по будням = http://vegiland.com.ua/vegi-street-franshiza/ == так же можно купить полуфабрикат \"Фалафель, уп. 12 шт., (Семейная)\" 100.00 грн.",
+        "marker-size": "medium",
+        "marker-color": "#63b6e5",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.62411,
+          50.442488
+        ]
+      },
+      "id": "9f7520cf1b8572948f354b03510b657f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioddfd1t0",
+        "title": "Ряд киосков с шаурмой перед вокзалом",
+        "description": "в 3 из 4 точек есть по 20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48875,
+          50.441401
+        ]
+      },
+      "id": "a06999aa57ed2ffaa6d3a1667bb4a8a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iql721fy0",
+        "title": "Döner Time (машина) у выхода из перехода Нивки",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4061,
+          50.459665
+        ]
+      },
+      "id": "a44b4810a2bfd69df9b38f3dbe2d29fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9t19nqf",
+        "title": "Їмо стоячи = со стороны ВелКешени ТЦ \"Украина\"",
+        "description": "25 грн\nhttps://ru.foursquare.com/v/%D1%97%D0%BC%D0%BE-%D1%81%D1%82%D0%BE%D1%8F%D1%87%D0%B8/56b4a138498ef793f93a9038",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.490654,
+          50.446416
+        ]
+      },
+      "id": "a4dd5ce61a16ff22ca2a73475544ac12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it3bn7bh1",
+        "title": "Шаурма Соломенского рынка",
+        "description": "23 / 15 грн мини. Опция в батоне: 26  / 17 грн мини = находятся в глубине торговых рядов, первый от перекрестка проход.",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.482731,
+          50.421985
+        ]
+      },
+      "id": "a95e95bba801e8fc8d84d82c2498d9a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iv2owrkw0",
+        "title": "Stop&Eat кафе на Шота Руставели, 8",
+        "description": "48 грн = Фалафель бургер // работает до 22",
+        "marker-size": "medium",
+        "marker-color": "#3ca0d3",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521757,
+          50.439878
+        ]
+      },
+      "id": "afc038214a9d4a2dec9fe6c48933fc35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwhrj8z50",
+        "title": "Mr.Gyros  №2 - Демиевская (у бильярда xXx)",
+        "description": "25 грн // https://www.instagram.com/mr.gyros/",
+        "marker-size": "medium",
+        "marker-color": "#c5e96f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51797,
+          50.407753
+        ]
+      },
+      "id": "b74cde5121127dda80cbd7a8110207cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isvgvt810",
+        "title": "Киоск с шаурмой у выхода из метро Петровка",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498315,
+          50.486615
+        ]
+      },
+      "id": "b9cd685a8f67d7eb7aa2c662ea387048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwgqe2bj0",
+        "title": "Киоск с шаурмой напротив Мак.Левобережная",
+        "description": "22 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.598753,
+          50.451304
+        ]
+      },
+      "id": "bc28a213007aae09586e180b7d98aaaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iv2p3a0k1",
+        "title": "Stop&Eat в ДРИМ ТАУН",
+        "description": "? не проверено === 48 грн = Фалафель бургер\nфалафель, помидор, петрушка, соленые огурцы, майонез\nhttp://www.stopandeat.com.ua/index.php/burgery",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498626,
+          50.508882
+        ]
+      },
+      "id": "bcd8fff952355e6aefebe698cb140c64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioie45di1",
+        "title": "Киоск у парка на метро Берестейская",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.421528,
+          50.45902
+        ]
+      },
+      "id": "bf75364f2d77ad420c6252142977bd6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9snilr0",
+        "title": "Хумус бар \"Окно\" в Бесрабском рынке",
+        "description": "18 грн + хумус 5 грн. (хумус тут насыщенный, но не всегда есть)",
+        "marker-size": "medium",
+        "marker-color": "#677da7",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522079,
+          50.442488
+        ]
+      },
+      "id": "c663a2b090bd2a0a51601a46c5f00cd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9tndcpk",
+        "title": "УКРОП кафе. готель \"Турист\", 3 этаж ",
+        "description": "можно взять с собой ",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.59761,
+          50.450727
+        ]
+      },
+      "id": "cb9d23ada7305bfc6cc5e2cac2cbd1b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9y51qo1",
+        "title": "ВДНХ.Шаурма у выхода из метро",
+        "description": "24 грн",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.477313,
+          50.381976
+        ]
+      },
+      "id": "ce11d20326fd220f9a1e3d540394e817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isbe76q90",
+        "title": "Возле остановки трамвая \"Бульвар Кольцова\"",
+        "description": "18 грн ? не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.382014,
+          50.420312
+        ]
+      },
+      "id": "d675afc997db6b4ef99e92be6307a911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-it2nlyte0",
+        "title": "Возле церкви на оболонской набережной",
+        "description": "25 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.513539,
+          50.512205
+        ]
+      },
+      "id": "d83a8094d0fdef73fa94cfbc60b60054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iw4q0yky1",
+        "title": "MAMAYA Eatery на Минской",
+        "description": "рол із фалафелями, хумусом, овочами і соусом - 42 гривні == огурцы солёные, есть морковка по-корейский. мягкий лаваш",
+        "marker-size": "medium",
+        "marker-color": "#677da7",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.496598,
+          50.511898
+        ]
+      },
+      "id": "d84ca25f168391d2510a7fbe61c2b660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9sxjf6d",
+        "title": "фудкорт",
+        "description": "? не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.643824,
+          50.463709
+        ]
+      },
+      "id": "d9885215f5943a60e46caeb97f1ba97c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-is3n8itt0",
+        "title": "The DONER киоск на Льва Толстого",
+        "description": "18 грн // хумуса нет. капусты нет! ",
+        "marker-size": "medium",
+        "marker-color": "#f1f075",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51724,
+          50.439679
+        ]
+      },
+      "id": "dc21591c09b8150d6665ba85a0b031c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iq45r2rj2",
+        "title": "Vegi Street = ТЦ Глобус-1, фуд корт, поворот с круга на торг алею",
+        "description": "35 грн, хумуса нет. = http://vegiland.com.ua/vegi-street-franshiza/",
+        "marker-size": "medium",
+        "marker-color": "#63b6e5",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52298,
+          50.450973
+        ]
+      },
+      "id": "e37fc238e1ee795548b23092d93c3502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iol617wu0",
+        "title": "Окно кафе Пальмира, напротив Кышени",
+        "description": "? не проверенно  / 18 грн",
+        "marker-size": "medium",
+        "marker-color": "#fa946e",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.383594,
+          50.429892
+        ]
+      },
+      "id": "ea56715e9789cfb03010b5655fc95979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ip3q7wpv1",
+        "title": "Киоск выпечка и шаурма",
+        "description": "24 грн",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.494179,
+          50.449118
+        ]
+      },
+      "id": "ecefe456d3af5b3a167724299567b94a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isbeapmk1",
+        "title": "Возле остановки \"Площадь Петра Кривоноса\"",
+        "description": "? не проверенно",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.490796,
+          50.437107
+        ]
+      },
+      "id": "f013c9b8df47b8d126279d67cc10ab6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-itpgj3xu0",
+        "title": "Шаурма возле ЭкспоПлазы",
+        "description": "20 грн",
+        "marker-size": "medium",
+        "marker-color": "#f86767",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.405663,
+          50.471682
+        ]
+      },
+      "id": "f0ab177387688da4d496b81735d2335c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioaapkbp0",
+        "title": "\"Али Баба\" по дороге в МАУП",
+        "description": "25 грн = делают ТОЛЬКО по предварительному заказу за 15 мин по тел  067-108-80-36",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.513957,
+          50.407478
+        ]
+      },
+      "id": "f2c940c1388900530041435a6aec7211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iwjps6u40",
+        "title": "Киоск у выхода из метро ТГШевченко",
+        "description": "28 грн",
+        "marker-size": "medium",
+        "marker-color": "#f1f075",
+        "marker-symbol": "",
+        "price": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.504765808582306,
+          50.47325598501884
+        ]
+      },
+      "id": "f55131bb18adab03be58a2f852251dc0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9sqtez5",
+        "title": "Vegano hooligano Green 13 / внутри Бесарабского рынка",
+        "description": "38 грн =  veganohooligano.com.ua",
+        "marker-size": "medium",
+        "marker-color": "#7ec9b1",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521537,
+          50.442453
+        ]
+      },
+      "id": "f5df0ed4e3e74035b907cf1c9780b812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-io9swirrc",
+        "title": "Маэстро фалафель = напротив входа в ДаРынок",
+        "description": "25 грн - насыпают прям поверх разные специи",
+        "marker-size": "medium",
+        "marker-color": "#f1f075",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.643545,
+          50.462206
+        ]
+      },
+      "id": "fac73aba69887a14de9be67d0a7719b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iv2p4vdv2",
+        "title": "Stop&Eat в ОКЕАН ПЛАЗА",
+        "description": "? не проверено === 48 грн = Фалафель бургер\nфалафель, помидор, петрушка, соленые огурцы, майонез\nhttp://www.stopandeat.com.ua/index.php/burgery",
+        "marker-size": "medium",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.523034,
+          50.412319
+        ]
+      },
+      "id": "face488a7ae2002c89b3855d5705be0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iudqi2gu0",
+        "title": "Food Mobile на Дворце Украина",
+        "description": "25 грн  ",
+        "marker-size": "medium",
+        "marker-color": "#d27591",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520928,
+          50.420724
+        ]
+      },
+      "id": "fb2dde097f41d00081a7f22aaf574b2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioidsuvt0",
+        "title": "Позняки. Киоск Шаурма у подземного перехода",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#e7857f",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.634641,
+          50.398547
+        ]
+      },
+      "id": "fbae5cd8011959871d8f3535f5853de9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ioi1iuvt0",
+        "title": "Биг Бург на Подоле",
+        "description": "20 грн в лаваше / 30 грн в булочке",
+        "marker-color": "#e7857f",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516959130764004,
+          50.46495894250494
+        ]
+      }
+    }
+  ]
+}
