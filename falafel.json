@@ -1672,6 +1672,25 @@
           50.46495894250494
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f86767",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-it3bj22e0",
+        "title": "Возле Аромы на Олимпийской",
+        "price": 25,
+        "description": "25 грн. киоск на колёсах"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.515650212764736,
+          50.432043248845204
+        ]
+      }
     }
   ]
 }
