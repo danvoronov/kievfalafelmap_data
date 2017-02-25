@@ -177,9 +177,9 @@
       "properties": {
         "id": "marker-iudqj8b91",
         "title": "Шаурма на колёсах",
-        "description": "20 грн",
+        "description": "20 грн - вроде уже нет их",
         "marker-size": "medium",
-        "marker-color": "#d27591",
+        "marker-color": "#fff",
         "marker-symbol": ""
       },
       "geometry": {
