@@ -234,7 +234,7 @@
       "type": "Feature",
       "properties": {
         "price": 18,
-        "state": 0,
+        "state": "+",
         "id": "marker-iqj3zk6f0",
         "title": "Шаурмешная Султан на рынке Борщаговка, ул Тулузы",
         "description": "18 грн",
