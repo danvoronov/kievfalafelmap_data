@@ -360,12 +360,12 @@
       "type": "Feature",
       "properties": {
         "price": "",
-        "state": "-",
+        "state": 0,
         "id": "marker-irsr8t750",
-        "title": "Вход в переход = MC Doner",
-        "description": "поменялся владелец - пока фалафеля нет",
+        "title": "MRfalafel",
+        "description": "с 8 явн",
         "marker-size": "medium",
-        "marker-color": "#ede8e4",
+        "marker-color": "#f6981f",
         "marker-symbol": ""
       },
       "geometry": {
@@ -626,20 +626,20 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
-        "state": 0,
+        "price": 24,
+        "state": "+",
         "id": "marker-is2xl4o14",
-        "title": "Берестейская",
-        "description": "не проверенно",
+        "title": "Шаурма \"Пирамида\" на Берестейской",
+        "description": "17 мини / 24 стандарт / 31 макси фалафель",
         "marker-size": "medium",
-        "marker-color": "#6c6c6c",
+        "marker-color": "#14bf54",
         "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.419844,
-          50.458048
+          30.41978538036346,
+          50.458168283562685
         ]
       },
       "id": "5bb1138e8a61b698d186eadaecea796e"
@@ -1363,7 +1363,7 @@
         "title": "Киоск у парка на метро Берестейская",
         "description": "20 грн",
         "marker-size": "medium",
-        "marker-color": "#d27591",
+        "marker-color": "#c658a0",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1628,6 +1628,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-itpgj3xu0",
         "title": "Шаурма возле ЭкспоПлазы",
         "description": "20 грн",
@@ -1887,6 +1889,26 @@
         "coordinates": [
           30.63575148582458,
           50.398232681664645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f03f20",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iGGPE57fz",
+        "title": "Киоск на Стеценко",
+        "description": "вывеска \"фалафель 100% веган\", но что это такое не знают. ",
+        "price": 22,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.406433343887326,
+          50.48072890565154
         ]
       }
     }
