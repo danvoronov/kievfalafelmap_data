@@ -1566,12 +1566,14 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 38,
+        "state": "++",
         "id": "marker-io9sqtez5",
         "title": "Vegano hooligano Green 13 / внутри Бесарабского рынка",
         "description": "38 грн =  veganohooligano.com.ua",
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#7ec9b1",
-        "marker-symbol": ""
+        "marker-symbol": "star"
       },
       "geometry": {
         "type": "Point",
