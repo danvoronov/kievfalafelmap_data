@@ -498,6 +498,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-iw4psf020",
         "title": "Drink-Food киоск на Подоле",
         "description": "ЗАКРЫЛИСЬ после месяца работы ===   мини 30 грн // стандарт 45 грн // макс 60 грн = хумус и яблочный соус",
@@ -517,10 +519,12 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-io9sw7lkb",
         "title": "тот самый ХАСАН",
         "description": "легендарный фалафель. до 18:00 + пон выходной   = от 25 грн и можно с разными мясными добавками / батоне",
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
       },
@@ -669,25 +673,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-io9sycdue",
-        "title": "Хамса в секонде, SnackBar ",
-        "description": "",
-        "marker-size": "medium",
-        "marker-color": "#f5c272",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.642977,
-          50.462401
-        ]
-      },
-      "id": "6b0e431311e5db70065a5c0c6ff101cd"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-is2vmrf41",
         "title": "Шаурма киоск возле автостанции",
         "description": "25 грн",
@@ -707,6 +692,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-its9sd3v0",
         "title": "Киоск на колесах у пешеходного моста",
         "description": "работал летом и в сентябре",
@@ -1582,9 +1569,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 30,
+        "state": "++",
         "id": "marker-io9swirrc",
         "title": "Маэстро фалафель = напротив входа в ДаРынок",
-        "description": "25 грн - насыпают прям поверх разные специи",
+        "description": "30 грн - насыпают прям поверх разные специи",
         "marker-size": "medium",
         "marker-color": "#f1f075",
         "marker-symbol": ""
