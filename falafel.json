@@ -311,7 +311,7 @@
       "type": "Feature",
       "properties": {
         "price": 55,
-        "state": 0,
+        "state": "+",
         "id": "marker-iol88hhx6",
         "title": " Burger Farm кафе",
         "description": "фалафель шарики с тхиной (без лаваша) 20грн     ! Фалафель-бургер 55 грн",
@@ -371,6 +371,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-ipsxh5q61",
         "title": "у конечной трамвая",
         "description": "? не проверенное",
@@ -565,6 +567,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-iqaluo7u0",
         "title": "Академгородок",
         "description": "? не проверенно",
@@ -932,6 +936,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-iwicxwz90",
         "title": "Sultan Food на Гната Юри 9",
         "description": "не проверенно",
@@ -1246,9 +1252,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-iv2p3a0k1",
         "title": "Stop&Eat в ДРИМ ТАУН",
-        "description": "? не проверено === 48 грн = Фалафель бургер\nфалафель, помидор, петрушка, соленые огурцы, майонез\nhttp://www.stopandeat.com.ua/index.php/burgery",
+        "description": "? не проверено === 48 грн = Фалафель бургерфалафель, помидор, петрушка, соленые огурцы, майонезhttp://www.stopandeat.com.ua/index.php/burgery",
         "marker-size": "medium",
         "marker-color": "#6c6c6c",
         "marker-symbol": ""
@@ -1341,6 +1349,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-isbe76q90",
         "title": "Возле остановки трамвая \"Бульвар Кольцова\"",
         "description": "18 грн ? не проверенно",
@@ -1495,6 +1505,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-isbeapmk1",
         "title": "Возле остановки \"Площадь Петра Кривоноса\"",
         "description": "? не проверенно",
@@ -1614,9 +1626,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-iv2p4vdv2",
         "title": "Stop&Eat в ОКЕАН ПЛАЗА",
-        "description": "? не проверено === 48 грн = Фалафель бургер\nфалафель, помидор, петрушка, соленые огурцы, майонез\nhttp://www.stopandeat.com.ua/index.php/burgery",
+        "description": "? не проверено === 48 грн = Фалафель бургерфалафель, помидор, петрушка, соленые огурцы, майонезhttp://www.stopandeat.com.ua/index.php/burgery",
         "marker-size": "medium",
         "marker-color": "#6c6c6c",
         "marker-symbol": ""
