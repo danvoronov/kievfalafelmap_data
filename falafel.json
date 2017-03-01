@@ -979,8 +979,10 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-is2vbsl20",
-        "title": "У входа в дарынок",
+        "title": "На углу у входа в дарынок",
         "description": "20 грн",
         "marker-size": "medium",
         "marker-color": "#f86767",
@@ -989,8 +991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.643358,
-          50.462247
+          30.643535256385803,
+          50.462297093068514
         ]
       },
       "id": "982b5561d26cb679d67b7d934b582e7f"
@@ -1036,11 +1038,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-it9tg8ce0",
         "title": "(когда есть) Фестиваль уличной еды на Арт-заводе Платформа",
         "description": "несколько точек с фалафелем. плата за вход + 46-70 грн",
         "marker-size": "medium",
-        "marker-color": "#1087bf",
+        "marker-color": "#436fb1",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1573,9 +1577,9 @@
         "state": "++",
         "id": "marker-io9swirrc",
         "title": "Маэстро фалафель = напротив входа в ДаРынок",
-        "description": "30 грн - насыпают прям поверх разные специи",
+        "description": "30 грн. шарики по 2.5 грн/шт  - насыпают прям поверх разные специи",
         "marker-size": "medium",
-        "marker-color": "#f1f075",
+        "marker-color": "#acc3f0",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1678,6 +1682,26 @@
         "coordinates": [
           30.515650212764736,
           50.432043248845204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f150dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iyADIhXcr",
+        "title": "Новый выход с метро Дарница",
+        "description": "киоск с шаурмой",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.611751079559323,
+          50.455096201797154
         ]
       }
     }
