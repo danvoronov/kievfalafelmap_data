@@ -107,6 +107,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 78,
+        "state": "++",
         "id": "marker-io9tcrl3i",
         "title": "One Planet (Vegano hooligano) кафе",
         "description": "фалафель 78 грн  == https://www.facebook.com/oneplanetfamily/",
@@ -126,6 +128,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 26,
+        "state": "+",
         "id": "marker-ioluy5rf0",
         "title": "в тоннеле перехода от Осокорков",
         "description": "26 грн",
@@ -145,6 +149,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-iyasre6e0",
         "title": "Машина-киоск у выхода из перехода к цирку",
         "description": "25 грн",
@@ -185,11 +191,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-iudqj8b91",
         "title": "Шаурма на колёсах",
         "description": "20 грн - вроде уже нет их",
         "marker-size": "medium",
-        "marker-color": "#fff",
+        "marker-color": "#000000",
         "marker-symbol": ""
       },
       "geometry": {
@@ -225,10 +233,12 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": 0,
         "id": "marker-iqj3zk6f0",
         "title": "Шаурмешная Султан на рынке Борщаговка, ул Тулузы",
         "description": "18 грн",
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#9c89cc",
         "marker-symbol": ""
       },
@@ -244,6 +254,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-ioddg7oj1",
         "title": "\"Смач Кебаб\" = справа в кластере шавермы у выхода Вокзала",
         "description": "цена нигде не написана - мне сказал 20 грн половинный // 25 грн обычный",
@@ -263,6 +275,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 24,
+        "state": "+",
         "id": "marker-iq1wsack0",
         "title": "Шаурма киоск на улице у входа в м. Дружбы Народов",
         "description": "24 грн // хумуса нет, красный соус чересчур острый, огурцы солёно-острые, фалафелены суховаты.",
@@ -282,6 +296,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-irwhjk9s1",
         "title": "На мине-рыночке возле конечной трамвая на Кольцевой",
         "description": "не проверенно",
@@ -404,6 +420,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 15,
+        "state": "+",
         "id": "marker-iql77b7m1",
         "title": "Шаурма на колёсах",
         "description": "15 грн (самый дешевый в городе)",
@@ -650,6 +668,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 28,
+        "state": "+",
         "id": "marker-iqj2kojq0",
         "title": "Киоск Шаурма на рынке у Минcкой",
         "description": "28 грн",
@@ -669,9 +689,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-iqvf9nl60",
         "title": "Смач кебаб = остановка тролейбусов Петровка",
-        "description": "20 грн",
+        "description": "20 грн. такая ж точка как на вокзале",
         "marker-size": "medium",
         "marker-color": "#fa946e",
         "marker-symbol": ""
@@ -688,6 +710,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "++",
         "id": "marker-iqvfc90r1",
         "title": "Хот Мит по Сирийски",
         "description": "25 грн, огурцы свежие",
@@ -749,6 +773,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 28,
+        "state": "+",
         "id": "marker-io9ste9p8",
         "title": "№1 = в переходе Севастопольской пл",
         "description": "28 грн",
@@ -768,9 +794,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-iol64cdf1",
         "title": "Петровка хозрынок",
-        "description": "",
+        "description": "\"самый невкусный фалафель в Киеве\"",
         "marker-size": "medium",
         "marker-color": "#f1f075",
         "marker-symbol": ""
@@ -787,9 +815,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-io9t26fkg",
         "title": "Sultan Basha = в заброшенном доме напротив паркинга ТЦ \"Украина\"",
-        "description": "25 грн стандарт // 30 грн // двойной 35 грн\nлук добовляют. огурцы соленые. картошка входит.\nмухи летают, тараканы бегают -  а вкусно.\n\nhttps://ru.foursquare.com/v/halal-d%C3%B6ner-and-falafel/4cc9ad2cbcb1b1f757b9108a",
+        "description": "25 грн стандарт // 30 грн // двойной 35 грнлук добовляют. огурцы соленые. картошка входит.мухи летают, тараканы бегают -  а вкусно.https://ru.foursquare.com/v/halal-d%C3%B6ner-and-falafel/4cc9ad2cbcb1b1f757b9108a",
         "marker-size": "medium",
         "marker-color": "#677da7",
         "marker-symbol": ""
@@ -867,6 +897,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ivmu5sn70",
         "title": "Шаурма.Бомба автомобиль",
         "description": "20 грн",
@@ -907,6 +939,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-ipsxfj690",
         "title": "Сбоку на  кругу транспорта",
         "description": "25 грн",
@@ -926,6 +960,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 30,
+        "state": "+",
         "id": "marker-iu6rvy660",
         "title": "Шаурма в проходе на Бориспольской",
         "description": "30 грн",
@@ -1134,6 +1170,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ioddfd1t0",
         "title": "Ряд киосков с шаурмой перед вокзалом",
         "description": "в 3 из 4 точек есть по 20 грн",
@@ -1172,9 +1210,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-io9t19nqf",
         "title": "Їмо стоячи = со стороны ВелКешени ТЦ \"Украина\"",
-        "description": "25 грн\nhttps://ru.foursquare.com/v/%D1%97%D0%BC%D0%BE-%D1%81%D1%82%D0%BE%D1%8F%D1%87%D0%B8/56b4a138498ef793f93a9038",
+        "description": "25 грн  https://ru.foursquare.com/v/%D1%97%D0%BC%D0%BE-%D1%81%D1%82%D0%BE%D1%8F%D1%87%D0%B8/56b4a138498ef793f93a9038",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -1191,11 +1231,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 23,
+        "state": "+",
         "id": "marker-it3bn7bh1",
         "title": "Шаурма Соломенского рынка",
         "description": "23 / 15 грн мини. Опция в батоне: 26  / 17 грн мини = находятся в глубине торговых рядов, первый от перекрестка проход.",
         "marker-size": "medium",
-        "marker-color": "#fa946e",
+        "marker-color": "#d0956c",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1231,6 +1273,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-iwhrj8z50",
         "title": "Mr.Gyros  №2 - Демиевская (у бильярда xXx)",
         "description": "25 грн // https://www.instagram.com/mr.gyros/",
@@ -1250,6 +1294,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-isvgvt810",
         "title": "Киоск с шаурмой у выхода из метро Петровка",
         "description": "20 грн",
@@ -1414,6 +1460,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-it2nlyte0",
         "title": "Возле церкви на оболонской набережной",
         "description": "25 грн",
@@ -1433,10 +1481,12 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 42,
+        "state": "+",
         "id": "marker-iw4q0yky1",
         "title": "MAMAYA Eatery на Минской",
         "description": "рол із фалафелями, хумусом, овочами і соусом - 42 гривні == огурцы солёные, есть морковка по-корейский. мягкий лаваш",
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#677da7",
         "marker-symbol": ""
       },
@@ -1515,6 +1565,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": 0,
         "id": "marker-iol617wu0",
         "title": "Окно кафе Пальмира, напротив Кышени",
         "description": "? не проверенно  / 18 грн",
@@ -1534,6 +1586,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 24,
+        "state": "+",
         "id": "marker-ip3q7wpv1",
         "title": "Киоск выпечка и шаурма",
         "description": "24 грн",
@@ -1593,6 +1647,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-ioaapkbp0",
         "title": "\"Али Баба\" по дороге в МАУП",
         "description": "25 грн = делают ТОЛЬКО по предварительному заказу за 15 мин по тел  067-108-80-36",
@@ -1695,6 +1751,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-iudqi2gu0",
         "title": "Food Mobile на Дворце Украина",
         "description": "25 грн  ",
@@ -1714,18 +1772,20 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-ioidsuvt0",
         "title": "Позняки. Киоск Шаурма у подземного перехода",
-        "description": "",
+        "description": "под мостом",
         "marker-size": "medium",
-        "marker-color": "#e7857f",
+        "marker-color": "#df997f",
         "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.634641,
-          50.398547
+          30.63449621200562,
+          50.39847888763432
         ]
       },
       "id": "fbae5cd8011959871d8f3535f5853de9"
@@ -1807,6 +1867,26 @@
         "coordinates": [
           30.48207700252533,
           50.462413199953346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d0b483",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iUBbR7oRi",
+        "title": "Позняки выход из перехода",
+        "description": "точка с шаурмой",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.63575148582458,
+          50.398232681664645
         ]
       }
     }
