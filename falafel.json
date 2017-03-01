@@ -331,6 +331,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-irsr8t750",
         "title": "Вход в переход = MC Doner",
         "description": "поменялся владелец - пока фалафеля нет",
@@ -582,6 +584,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-is2xl4o14",
         "title": "Берестейская",
         "description": "не проверенно",
@@ -1009,7 +1013,7 @@
       "type": "Feature",
       "properties": {
         "price": "",
-        "state": 0,
+        "state": "+",
         "id": "marker-it2mgspu0",
         "title": "LinasCAFE, НАУ",
         "description": "кафе",
@@ -1049,7 +1053,7 @@
       "type": "Feature",
       "properties": {
         "price": "",
-        "state": 0,
+        "state": "+",
         "id": "marker-it9tg8ce0",
         "title": "(когда есть) Фестиваль уличной еды на Арт-заводе Платформа",
         "description": "несколько точек с фалафелем. плата за вход + 46-70 грн",
@@ -1394,6 +1398,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-io9sxjf6d",
         "title": "фудкорт",
         "description": "? не проверенно",
@@ -1683,7 +1689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "state": 0,
+        "state": "+",
         "marker-color": "#f38b5b",
         "marker-size": "medium",
         "marker-symbol": "",
