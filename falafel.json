@@ -42,6 +42,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-is5o1ida0",
         "title": "КПИ точка крымских татар",
         "description": "25 грн _ 35 грн двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения.",
@@ -308,10 +310,12 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 55,
+        "state": 0,
         "id": "marker-iol88hhx6",
         "title": " Burger Farm кафе",
-        "description": "фалафель шарики с тхиной (без лаваша) 20грн   \n  ! Фалафель-бургер 55 грн",
-        "marker-size": "medium",
+        "description": "фалафель шарики с тхиной (без лаваша) 20грн     ! Фалафель-бургер 55 грн",
+        "marker-size": "large",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
       },
@@ -808,9 +812,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-io9svh43a",
         "title": "Mr.Gyros  №1 у правого входа в м.Левобережная",
-        "description": "20 грн на выбор в лаваше или пите. огурцы свежие.\n instagram.com/mr.gyros/",
+        "description": "20 грн на выбор в лаваше или пите. огурцы свежие. instagram.com/mr.gyros/",
         "marker-size": "medium",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
@@ -960,10 +966,12 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-is2wnspt3",
         "title": "Sultan 24 FOOD, шулявка",
         "description": "25 грн  https://vk.com/id361274696  == одна из двух точек, вторая на борщаговке",
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#9c89cc",
         "marker-symbol": ""
       },
@@ -1000,11 +1008,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": 0,
         "id": "marker-it2mgspu0",
         "title": "LinasCAFE, НАУ",
-        "description": "? не проверенно",
+        "description": "кафе",
         "marker-size": "medium",
-        "marker-color": "#6c6c6c",
+        "marker-color": "#89c32e",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1211,6 +1221,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 22,
+        "state": "+",
         "id": "marker-iwgqe2bj0",
         "title": "Киоск с шаурмой напротив Мак.Левобережная",
         "description": "22 грн",
@@ -1669,7 +1681,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f86767",
+        "state": 0,
+        "marker-color": "#f38b5b",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-it3bj22e0",
