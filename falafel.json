@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-iu1sc3qp0",
         "title": "КПИ общаги шаурма",
         "description": "на углу",
@@ -42,7 +44,7 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
+        "price": 25,
         "state": "+",
         "id": "marker-is5o1ida0",
         "title": "КПИ точка крымских татар",
@@ -63,6 +65,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-ix6735pd0",
         "title": "Шаурма на Майдане",
         "description": "25 грн",
@@ -82,6 +86,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": "+",
         "id": "marker-io9sqbc24",
         "title": "(24) DONER HOUSE в Бесарабском рынке",
         "description": "18 грн",
@@ -158,6 +164,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 35,
+        "state": "+",
         "id": "marker-io9srtif6",
         "title": "Кипиш (кошерный фастфуд)",
         "description": "35 грн = интересные соусы, но по ощущениям маловат по размеру",
@@ -196,11 +204,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 35,
+        "state": "+",
         "id": "marker-iwhohbkj0",
         "title": "Street Food King на подоле",
         "description": "35 грн вариант лаваш или батон = хумус, огурцы солёные. || https://vk.com/street_food_king",
         "marker-size": "medium",
-        "marker-color": "#e7857f",
+        "marker-color": "#df5e8c",
         "marker-symbol": ""
       },
       "geometry": {
@@ -291,6 +301,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ipnp6ump0",
         "title": "у \"Поляны\" КПИ ",
         "description": "20 грн",
@@ -430,6 +442,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 40,
+        "state": "+",
         "id": "marker-iudql0bl2",
         "title": "КАФЕ в Изоляции, 2 этаж",
         "description": "40 грн - готовят не каждый день/неделю. готовят к 12:00, дальше в наличии до 20:00 пока не закончится  // в торце выставочного зала. можно в фб спрашивать когда есть",
@@ -449,11 +463,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": "+",
         "id": "marker-iwiczan51",
         "title": "Площадь Cковороды, возле академии",
         "description": "18 грн мини - 27 стандарт = хумус  // одинадцатый фалафель бесплатно",
         "marker-size": "medium",
-        "marker-color": "#c5e96f",
+        "marker-color": "#e8e63a",
         "marker-symbol": ""
       },
       "geometry": {
@@ -468,6 +484,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 22,
+        "state": "+",
         "id": "marker-it3c1r2a0",
         "title": "\"Царица Клеопатра\" напротив выхода из метро КПИ",
         "description": "22 грн / хумуса нет. Киоск закрытого типа, чисто.",
@@ -548,9 +566,11 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 22,
+        "state": "+",
         "id": "marker-iol70weq2",
         "title": "Фудкорт Сильпо.Гуливер",
-        "description": "22 грн = с правой стороны куба футкорта (шаурма)",
+        "description": "22 грн = с правой стороны куба футкорта (шаурма.) Работает до 22",
         "marker-size": "medium",
         "marker-color": "#9c89cc",
         "marker-symbol": ""
@@ -609,6 +629,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-io9spraj3",
         "title": "LinasCAFE в Бесарабском рынке",
         "description": "Можно заказать с собой. выйти подождать и вернутся забрать по чеку",
@@ -685,6 +707,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-is2vmrf41",
         "title": "Шаурма киоск возле автостанции",
         "description": "25 грн",
@@ -782,6 +806,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 30,
+        "state": "+",
         "id": "marker-iwty7v840",
         "title": "Окно с шаурмой у выхода из перехода",
         "description": "30 грн",
@@ -860,6 +886,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ipxt1sz81",
         "title": "Донер = Справа от входа в м Шулявка",
         "description": "20 грн",
@@ -917,6 +945,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "++",
         "id": "marker-iolv5rw50",
         "title": "Киоск \"Бургерная\" = слева от выхода из перехода в сторону Сильпо",
         "description": "25 грн // заворачивают в хорошую бумагу",
@@ -957,6 +987,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 24,
+        "state": "+",
         "id": "marker-iq45h4lu0",
         "title": "Киоск \"Тандыр\" напротив тыла синагоги",
         "description": "24 в лаваше // 26 в пите",
@@ -976,8 +1008,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
-        "state": 0,
+        "price": 25,
+        "state": "++",
         "id": "marker-is2wnspt3",
         "title": "Sultan 24 FOOD, шулявка",
         "description": "25 грн  https://vk.com/id361274696  == одна из двух точек, вторая на борщаговке",
@@ -1039,11 +1071,13 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 15,
+        "state": "++",
         "id": "marker-io9soer71",
         "title": "Дверь №1 и №2 вход в Бесарабский рынок со стороны Пузатой",
-        "description": "18грн (+2 грн хумус) = тут розовый лаваш ;)",
+        "description": "15 грн 18грн (+2 грн хумус) = тут розовый лаваш ;)",
         "marker-size": "medium",
-        "marker-color": "#f86767",
+        "marker-color": "#34f3bc",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1079,6 +1113,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 35,
+        "state": "+",
         "id": "marker-iso9fsnw0",
         "title": "Vegi Street = ТЦ \"Дарница\", 4-й этаж",
         "description": "35 грн много капусты / летом не работал, осенью по будням = http://vegiland.com.ua/vegi-street-franshiza/ == так же можно купить полуфабрикат \"Фалафель, уп. 12 шт., (Семейная)\" 100.00 грн.",
@@ -1174,6 +1210,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 48,
+        "state": "+",
         "id": "marker-iv2owrkw0",
         "title": "Stop&Eat кафе на Шота Руставели, 8",
         "description": "48 грн = Фалафель бургер // работает до 22",
@@ -1273,6 +1311,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ioie45di1",
         "title": "Киоск у парка на метро Берестейская",
         "description": "20 грн",
@@ -1292,6 +1332,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": "+",
         "id": "marker-io9snilr0",
         "title": "Хумус бар \"Окно\" в Бесрабском рынке",
         "description": "18 грн + хумус 5 грн. (хумус тут насыщенный, но не всегда есть)",
@@ -1311,8 +1353,10 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "+",
         "id": "marker-io9tndcpk",
-        "title": "УКРОП кафе. готель \"Турист\", 3 этаж ",
+        "title": "УКРОП кафе. отель \"Турист\", 3 этаж ",
         "description": "можно взять с собой ",
         "marker-size": "medium",
         "marker-color": "#1087bf",
@@ -1429,6 +1473,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 18,
+        "state": "+",
         "id": "marker-is3n8itt0",
         "title": "The DONER киоск на Льва Толстого",
         "description": "18 грн // хумуса нет. капусты нет! ",
@@ -1448,6 +1494,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 35,
+        "state": "+",
         "id": "marker-iq45r2rj2",
         "title": "Vegi Street = ТЦ Глобус-1, фуд корт, поворот с круга на торг алею",
         "description": "35 грн, хумуса нет. = http://vegiland.com.ua/vegi-street-franshiza/",
@@ -1685,6 +1733,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 20,
+        "state": "+",
         "id": "marker-ioi1iuvt0",
         "title": "Биг Бург на Подоле",
         "description": "20 грн в лаваше / 30 грн в булочке",
@@ -1737,6 +1787,26 @@
         "coordinates": [
           30.611751079559323,
           50.455096201797154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e2d762",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iY6aHF0KV",
+        "title": "БигБург у выхода из метро Лукяновка",
+        "description": "",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48207700252533,
+          50.462413199953346
         ]
       }
     }
