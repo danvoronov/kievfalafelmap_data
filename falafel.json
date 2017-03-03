@@ -1911,6 +1911,26 @@
           50.48072890565154
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf002e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iz8gf4euq",
+        "title": "Забегаловка \"Бургерная\"",
+        "description": "32 грн в лаваше",
+        "price": 32,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51640391349792,
+          50.42832188442083
+        ]
+      }
     }
   ]
 }
