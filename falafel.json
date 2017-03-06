@@ -1587,7 +1587,7 @@
       "type": "Feature",
       "properties": {
         "price": 24,
-        "state": "+",
+        "state": "-",
         "id": "marker-ip3q7wpv1",
         "title": "Киоск выпечка и шаурма",
         "description": "24 грн",
