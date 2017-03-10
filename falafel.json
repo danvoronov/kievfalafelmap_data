@@ -731,11 +731,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 25,
+        "price": 35,
         "state": "+",
         "id": "marker-is2vmrf41",
         "title": "Шаурма киоск возле автостанции",
-        "description": "25 грн",
+        "description": "35 грн = за что?",
         "marker-size": "medium",
         "marker-color": "#fa946e",
         "marker-symbol": ""
