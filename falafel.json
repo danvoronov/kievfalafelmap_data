@@ -69,9 +69,9 @@
         "state": "+",
         "id": "marker-ix6735pd0",
         "title": "Шаурма на Майдане",
-        "description": "25 грн",
+        "description": "25 грн. хумуса нет. огурцы солёные. размер средний",
         "marker-size": "medium",
-        "marker-color": "#f86767",
+        "marker-color": "#f38e4a",
         "marker-symbol": ""
       },
       "geometry": {
@@ -1929,6 +1929,26 @@
         "coordinates": [
           30.51640391349792,
           50.42832188442083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d0fbb4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iADh8FVzB",
+        "title": "Точка на Оболони",
+        "description": "не проверенна",
+        "price": "",
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.49934506416321,
+          50.50194296549519
         ]
       }
     }
