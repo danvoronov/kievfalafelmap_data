@@ -2031,6 +2031,26 @@
           50.45842954645847
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ad5868",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i28RvZWYd",
+        "title": "Киоск на Нимецькой",
+        "description": "",
+        "price": "",
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520016849040985,
+          50.42109189652229
+        ]
+      }
     }
   ]
 }
