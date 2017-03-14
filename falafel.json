@@ -981,11 +981,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 25,
-        "state": "++",
+        "price": 32,
+        "state": "+",
         "id": "marker-iolv5rw50",
         "title": "Киоск \"Бургерная\" = слева от выхода из перехода в сторону Сильпо",
-        "description": "25 грн // заворачивают в хорошую бумагу",
+        "description": "32 грн // заворачивают в хорошую бумагу",
         "marker-size": "medium",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
@@ -1524,10 +1524,10 @@
       "type": "Feature",
       "properties": {
         "price": 18,
-        "state": "+",
+        "state": "-",
         "id": "marker-is3n8itt0",
         "title": "The DONER киоск на Льва Толстого",
-        "description": "18 грн // хумуса нет. капусты нет! ",
+        "description": "уехали в конце зимы 17 ==18 грн // хумуса нет. капусты нет! ",
         "marker-size": "medium",
         "marker-color": "#f1f075",
         "marker-symbol": ""
@@ -1949,6 +1949,46 @@
         "coordinates": [
           30.49934506416321,
           50.50194296549519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7178f3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iWIgkxdhu",
+        "title": "MRfalafel Шулявка",
+        "description": "",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447506010532383,
+          50.45406814544808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffba7b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iElEF64CT",
+        "title": "Биг Бург Шулявка",
+        "description": "",
+        "price": 20,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44504910707474,
+          50.45489469085126
         ]
       }
     }
