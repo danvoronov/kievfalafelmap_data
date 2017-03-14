@@ -1361,7 +1361,7 @@
         "state": "+",
         "id": "marker-ioie45di1",
         "title": "Киоск у парка на метро Берестейская",
-        "description": "20 грн",
+        "description": "20 грн + картошка бесплатно",
         "marker-size": "medium",
         "marker-color": "#c658a0",
         "marker-symbol": ""
@@ -1989,6 +1989,46 @@
         "coordinates": [
           30.44504910707474,
           50.45489469085126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d85bd4",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ieUYj47zT",
+        "title": "Киоск на Берестейке",
+        "description": "",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.421893596649166,
+          50.45911599503323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eeac50",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iFeHUrw3D",
+        "title": "Шаурма.мобиль у лестницы",
+        "description": "",
+        "price": 20,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.41977196931839,
+          50.45842954645847
         ]
       }
     }
