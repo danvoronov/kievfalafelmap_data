@@ -2051,6 +2051,26 @@
           50.42109189652229
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0072",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i9gPQdjr9",
+        "title": "Шаурма у входа на рынок Троещина",
+        "description": 25,
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.60838222503662,
+          50.49512519934806
+        ]
+      }
     }
   ]
 }
