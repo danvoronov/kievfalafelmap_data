@@ -30,7 +30,8 @@
         "description": "18 грн",
         "marker-size": "medium",
         "marker-color": "#fa946e",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "state": "+"
       },
       "geometry": {
         "type": "Point",
@@ -385,7 +386,8 @@
         "description": "уже закрыто. куда то опять переехали",
         "marker-size": "medium",
         "marker-color": "#ffffff",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "state": "-"
       },
       "geometry": {
         "type": "Point",
