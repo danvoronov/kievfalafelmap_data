@@ -1777,10 +1777,10 @@
       "type": "Feature",
       "properties": {
         "price": "",
-        "state": "+",
+        "state": "-",
         "id": "marker-ioidsuvt0",
         "title": "Позняки. Киоск Шаурма у подземного перехода",
-        "description": "под мостом",
+        "description": "весной уехали. ПОзняки под мостом",
         "marker-size": "medium",
         "marker-color": "#df997f",
         "marker-symbol": ""
@@ -1877,7 +1877,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#d0b483",
+        "marker-color": "#c56b68",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-iUBbR7oRi",
@@ -1889,8 +1889,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.63575148582458,
-          50.398232681664645
+          30.63629865646362,
+          50.3976308394663
         ]
       }
     },
