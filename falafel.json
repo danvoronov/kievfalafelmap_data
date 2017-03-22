@@ -362,47 +362,6 @@
       "properties": {
         "price": "",
         "state": 0,
-        "id": "marker-irsr8t750",
-        "title": "MRfalafel",
-        "description": "с 8 явн",
-        "marker-size": "medium",
-        "marker-color": "#f6981f",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.522336,
-          50.440943
-        ]
-      },
-      "id": "2d24701a9fcfadc6ab3f94072b669326"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iui5cix10",
-        "title": "MRfalafel ВДНХ",
-        "description": "уже закрыто. куда то опять переехали",
-        "marker-size": "medium",
-        "marker-color": "#ffffff",
-        "marker-symbol": "",
-        "state": "-"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.47788,
-          50.381578
-        ]
-      },
-      "id": "325e1a3ab979bf9c41582192f026bfac"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "price": "",
-        "state": 0,
         "id": "marker-ipsxh5q61",
         "title": "у конечной трамвая",
         "description": "? не проверенное",
@@ -628,27 +587,6 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 24,
-        "state": "+",
-        "id": "marker-is2xl4o14",
-        "title": "Шаурма \"Пирамида\" на остановке трамвая Берестейская",
-        "description": "воскресенье выходной!  пн-пт до 21. сб до 20:00 == цена 17 мини / 24 стандарт / 31 макси фалафель",
-        "marker-size": "medium",
-        "marker-color": "#14bf54",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.420160889625546,
-          50.45818365200827
-        ]
-      },
-      "id": "5bb1138e8a61b698d186eadaecea796e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "price": "",
         "state": "+",
         "id": "marker-io9spraj3",
@@ -859,6 +797,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 24,
+        "state": "+",
         "id": "marker-io9y588i2",
         "title": "Їмо стоячи на ВДНХ",
         "description": "24 грн / хумуса нет, огурцы солёные",
@@ -1422,6 +1362,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 24,
+        "state": "+",
         "id": "marker-io9y51qo1",
         "title": "ВДНХ.Шаурма у выхода из метро",
         "description": "24 грн",
@@ -1957,20 +1899,20 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7178f3",
+        "marker-color": "#2bf09c",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-iWIgkxdhu",
         "title": "MRfalafel Шулявка",
-        "description": "",
-        "price": "",
+        "description": "переехали с подола. открылись  марте 17. фалафель 40 а если только шарики - 35. есть фалафель салат",
+        "price": 40,
         "state": "+"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.447506010532383,
-          50.45406814544808
+          30.447374582290646,
+          50.454074976461015
         ]
       }
     },
@@ -2037,14 +1979,14 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ad5868",
+        "marker-color": "#22129b",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-i28RvZWYd",
-        "title": "Киоск на Нимецькой",
-        "description": "",
-        "price": "",
-        "state": 0
+        "title": "Lazzat на Нимецькой",
+        "description": "17 мини / 24 стандарт / 31 макси фалафель",
+        "price": 24,
+        "state": "+"
       },
       "geometry": {
         "type": "Point",
@@ -2071,6 +2013,46 @@
         "coordinates": [
           30.60838222503662,
           50.49512519934806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eedb63",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-irk5j783r",
+        "title": "Киоск с шаурмой",
+        "description": "еще один киоск",
+        "price": 24,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.477270483970642,
+          50.381528724473014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#91a55b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iJOapKLFo",
+        "title": "Киоск Шаурмы на ВДНХ",
+        "description": "",
+        "price": 24,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.477404594421387,
+          50.38212050899064
         ]
       }
     }
