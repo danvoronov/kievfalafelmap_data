@@ -193,12 +193,12 @@
       "type": "Feature",
       "properties": {
         "price": "",
-        "state": "-",
+        "state": "+",
         "id": "marker-iudqj8b91",
-        "title": "Шаурма на колёсах",
-        "description": "20 грн - вроде уже нет их",
+        "title": "Шаурма на колёсах \"Капоне Гриль\"",
+        "description": "машина с шаурмой",
         "marker-size": "medium",
-        "marker-color": "#000000",
+        "marker-color": "#c66d68",
         "marker-symbol": ""
       },
       "geometry": {
@@ -525,10 +525,10 @@
       "type": "Feature",
       "properties": {
         "price": 25,
-        "state": "++",
+        "state": "-",
         "id": "marker-io9sw7lkb",
         "title": "тот самый ХАСАН",
-        "description": "легендарный фалафель. до 18:00 + пон выходной   = от 25 грн и можно с разными мясными добавками / батоне",
+        "description": "переодически он пропадает на месяцы = легендарный фалафель. до 18:00 + пон выходной   = от 25 грн и можно с разными мясными добавками / батоне",
         "marker-size": "large",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
@@ -1693,27 +1693,6 @@
         ]
       },
       "id": "face488a7ae2002c89b3855d5705be0b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "price": "",
-        "state": "-",
-        "id": "marker-iudqi2gu0",
-        "title": "Food Mobile на Дворце Украина",
-        "description": "25 грн  ",
-        "marker-size": "medium",
-        "marker-color": "#d27591",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.520928,
-          50.420724
-        ]
-      },
-      "id": "fb2dde097f41d00081a7f22aaf574b2e"
     },
     {
       "type": "Feature",
