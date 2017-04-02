@@ -2034,6 +2034,46 @@
           50.38212050899064
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d8613b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-itsGa6UFE",
+        "title": "Шаурма на Житомирской",
+        "description": "киоск с шаурмой. обычный",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.364574790000912,
+          50.45684657856288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e303bd",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iw69aKUJZ",
+        "title": "Шаурма на колесах",
+        "description": "",
+        "price": 30,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.538896918296814,
+          50.42723173238402
+        ]
+      }
     }
   ]
 }
