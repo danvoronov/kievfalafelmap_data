@@ -1551,27 +1551,6 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
-        "state": 0,
-        "id": "marker-isbeapmk1",
-        "title": "Возле остановки \"Площадь Петра Кривоноса\"",
-        "description": "? не проверенно",
-        "marker-size": "medium",
-        "marker-color": "#6c6c6c",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.490796,
-          50.437107
-        ]
-      },
-      "id": "f013c9b8df47b8d126279d67cc10ab6b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "price": 20,
         "state": "+",
         "id": "marker-itpgj3xu0",
@@ -2072,6 +2051,66 @@
         "coordinates": [
           30.538896918296814,
           50.42723173238402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffe18a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iXW32NbOU",
+        "title": "Киоск с шаурмой у конечной маршруток",
+        "description": "Давно известный киоск шаурмы весной 17 вписал в меню фалафель.",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516256392002106,
+          50.46473869252843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#26cf4c",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-inqZAEqRL",
+        "title": "gastro-bar FERMA",
+        "description": "Южный вокзал в череде остановок",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.485419034957886,
+          50.439447518096884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#407596",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iVJsiUynG",
+        "title": "Шаурма на остановке \"Куренёвский рынок\"",
+        "description": "Киоск и крытый павильон",
+        "price": 28,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45971274375916,
+          50.49494774684951
         ]
       }
     }
