@@ -2113,6 +2113,46 @@
           50.49494774684951
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f32025",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ikW3WdnYV",
+        "title": "Шаурма на остановке",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.510668009519577,
+          50.39778813986937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b0d042",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iwVJTNCxb",
+        "title": "Шаурма у центра Довженко",
+        "description": "",
+        "price": 27,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.509195476770405,
+          50.397206809692825
+        ]
+      }
     }
   ]
 }
