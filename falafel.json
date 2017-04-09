@@ -1488,11 +1488,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 35,
+        "price": 40,
         "state": "+",
         "id": "marker-iq45r2rj2",
-        "title": "Vegi Street = ТЦ Глобус-1, фуд корт, поворот с круга на торг алею",
-        "description": "35 грн, хумуса нет. = http://vegiland.com.ua/vegi-street-franshiza/",
+        "title": "Vegi Street в ТЦ Глобус-1, фуд корт, поворот с круга на торг алею",
+        "description": "50 грн, хумуса нет, весьма обычный фалафель. = http://vegiland.com.ua/vegi-street-franshiza/",
         "marker-size": "medium",
         "marker-color": "#63b6e5",
         "marker-symbol": ""
