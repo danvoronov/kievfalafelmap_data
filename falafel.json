@@ -108,11 +108,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 78,
+        "price": 83,
         "state": "++",
         "id": "marker-io9tcrl3i",
         "title": "One Planet (Vegano hooligano) кафе",
-        "description": "фалафель 78 грн  == https://www.facebook.com/oneplanetfamily/",
+        "description": "цены как ресторан. фалафель раза в два дороже чем везде   == https://www.facebook.com/oneplanetfamily/",
         "marker-size": "medium",
         "marker-color": "#7ec9b1",
         "marker-symbol": ""
@@ -153,10 +153,10 @@
         "price": 25,
         "state": "+",
         "id": "marker-iyasre6e0",
-        "title": "Машина-киоск у выхода из перехода к цирку",
-        "description": "25 грн",
+        "title": "gastro-bar FERMA. Цирк",
+        "description": "Обычная шаурма с необычным названием.",
         "marker-size": "medium",
-        "marker-color": "#e7857f",
+        "marker-color": "#25ce4b",
         "marker-symbol": ""
       },
       "geometry": {
@@ -2081,8 +2081,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-inqZAEqRL",
-        "title": "gastro-bar FERMA",
-        "description": "Южный вокзал в череде остановок",
+        "title": "gastro-bar FERMA. Вокзал",
+        "description": "Обычная шаурма с необычным названием. Южный вокзал в череде остановок",
         "price": 25,
         "state": "+"
       },
@@ -2151,6 +2151,26 @@
         "coordinates": [
           30.509195476770405,
           50.397206809692825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9926c",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i3HwVjxQG",
+        "title": "Слева от входа в рынок",
+        "description": "днем работает внутри рынка, но вход с улицы",
+        "price": 35,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5110502243042,
+          50.46481210930125
         ]
       }
     }
