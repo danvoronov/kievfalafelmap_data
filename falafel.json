@@ -2173,6 +2173,26 @@
           50.46481210930125
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#324f99",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iGKMBIxdp",
+        "title": "Шаурма святошин",
+        "description": "",
+        "price": 28,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.388424992561337,
+          50.457852375519536
+        ]
+      }
     }
   ]
 }
