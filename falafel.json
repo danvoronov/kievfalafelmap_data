@@ -443,7 +443,7 @@
       "type": "Feature",
       "properties": {
         "price": 18,
-        "state": "+",
+        "state": "-",
         "id": "marker-iwiczan51",
         "title": "Площадь Cковороды, возле академии",
         "description": "18 грн мини - 27 стандарт = хумус  // одинадцатый фалафель бесплатно",
@@ -719,7 +719,7 @@
         "title": "№1 = в переходе Севастопольской пл",
         "description": "28 грн",
         "marker-size": "medium",
-        "marker-color": "#e7857f",
+        "marker-color": "#df2c31",
         "marker-symbol": ""
       },
       "geometry": {
@@ -2191,6 +2191,46 @@
         "coordinates": [
           30.388424992561337,
           50.457852375519536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25ce4b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iSbAr2KUC",
+        "title": "gastro bar FERMA. Поветрофлотский",
+        "description": "Обычная шаурма с необычным названием. На остановке",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48031210899353,
+          50.442365172255286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffe088",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ioZAtP60p",
+        "title": "Киоск Шаурмы на углу. Подол",
+        "description": "Киоск с шаурмой добавил в меню фалафель",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.516586303710934,
+          50.46491284375752
         ]
       }
     }
