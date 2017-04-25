@@ -402,6 +402,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": 25,
+        "state": "+",
         "id": "marker-ip3q64ay0",
         "title": "Киоск напротив остановки Нивки",
         "description": "25 грн",
@@ -776,11 +778,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 30,
+        "price": 35,
         "state": "+",
         "id": "marker-iwty7v840",
         "title": "Окно с шаурмой у выхода из перехода",
-        "description": "30 грн",
+        "description": "за что тут берут такие деньги понять трудно. обычные соленные оругцы  и капуста. фалафелены из холодильника.",
         "marker-size": "medium",
         "marker-color": "#f5c272",
         "marker-symbol": ""
@@ -1133,6 +1135,8 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
+        "state": "-",
         "id": "marker-iql721fy0",
         "title": "Döner Time (машина) у выхода из перехода Нивки",
         "description": "25 грн",
@@ -2231,6 +2235,26 @@
         "coordinates": [
           30.516586303710934,
           50.46491284375752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ec8451",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i7cQGgwyE",
+        "title": "Киоск Шаурмы у остановки транспорта на КПИ",
+        "description": "",
+        "price": "",
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.467480421066284,
+          50.45080280834935
         ]
       }
     }
