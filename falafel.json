@@ -883,11 +883,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
-        "state": 0,
+        "price": 26,
+        "state": "+",
         "id": "marker-ipsxfj690",
         "title": "Сбоку на  кругу транспорта",
-        "description": "25 грн",
+        "description": "",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -895,8 +895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.491105,
-          50.440872
+          30.48954963684082,
+          50.441217264211396
         ]
       },
       "id": "83836ea6e0b8e553f198285b608fcec2"
