@@ -1941,13 +1941,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#22129b",
+        "marker-color": "#3bae22",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-i28RvZWYd",
         "title": "Lazzat на Нимецькой",
-        "description": "17 мини / 24 стандарт / 31 макси фалафель",
-        "price": 24,
+        "description": "18 мини / 26 стандарт / 34 макси фалафель",
+        "price": 26,
         "state": "+"
       },
       "geometry": {
@@ -2255,6 +2255,26 @@
         "coordinates": [
           30.467480421066284,
           50.45080280834935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b37527",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iIL3diygu",
+        "title": "На голосеевской пл",
+        "description": "киоск с шаурмой и выпечкой",
+        "price": 30,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.508089065551758,
+          50.39747353854127
         ]
       }
     }
