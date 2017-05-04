@@ -171,11 +171,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 35,
+        "price": 39,
         "state": "+",
         "id": "marker-io9srtif6",
         "title": "Кипиш (кошерный фастфуд)",
-        "description": "35 грн = интересные соусы, но по ощущениям маловат по размеру",
+        "description": "39 грн = интересные соусы, но по ощущениям маловат по размеру",
         "marker-size": "medium",
         "marker-color": "#b7ddf3",
         "marker-symbol": ""
@@ -1946,7 +1946,7 @@
         "marker-symbol": "",
         "id": "marker-i28RvZWYd",
         "title": "Lazzat на Нимецькой",
-        "description": "18 мини / 26 стандарт / 34 макси фалафель",
+        "description": "18 мини / 26 стандарт / 34 макси фалафель ролл = огурцы не соленые",
         "price": 26,
         "state": "+"
       },
