@@ -2277,6 +2277,26 @@
           50.39747353854127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffde60",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iQdRGU3Yr",
+        "title": "Угол Соломенского рынка",
+        "description": "свой рецепт сливочного соуса",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.482916533946987,
+          50.42202497046268
+        ]
+      }
     }
   ]
 }
