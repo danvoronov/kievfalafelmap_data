@@ -49,7 +49,7 @@
         "state": "+",
         "id": "marker-is5o1ida0",
         "title": "КПИ точка крымских татар",
-        "description": "25 грн _ 35 грн двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения.",
+        "description": "воскресенье выходной. 25 грн _ 35 грн двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения.",
         "marker-size": "medium",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
@@ -862,11 +862,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 20,
+        "price": 25,
         "state": "+",
         "id": "marker-ipxt1sz81",
         "title": "Донер = Справа от входа в м Шулявка",
-        "description": "20 грн",
+        "description": "дальше всего",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -1881,7 +1881,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffba7b",
+        "marker-color": "#fd7f60",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-iElEF64CT",
@@ -2295,6 +2295,46 @@
         "coordinates": [
           30.482916533946987,
           50.42202497046268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb4130",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iqr4rI4Z4",
+        "title": "Окно рядом со входом в метро Шулявка",
+        "description": "",
+        "price": 20,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44556140899658,
+          50.45489810629818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff78bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i5cac7UYc",
+        "title": "Шаурма поодаль на Шулявке",
+        "description": "киоск подальше основного скопления киосков",
+        "price": 20,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44453144073486,
+          50.454997154151364
         ]
       }
     }
