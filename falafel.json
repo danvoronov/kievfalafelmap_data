@@ -279,10 +279,10 @@
         "price": 24,
         "state": "+",
         "id": "marker-iq1wsack0",
-        "title": "Шаурма киоск на улице у входа в м. Дружбы Народов",
-        "description": "24 грн // хумуса нет, красный соус чересчур острый, огурцы солёно-острые, фалафелены суховаты.",
+        "title": "Едим Стоя",
+        "description": "киоск сети",
         "marker-size": "medium",
-        "marker-color": "#f86767",
+        "marker-color": "#f357ad",
         "marker-symbol": ""
       },
       "geometry": {
