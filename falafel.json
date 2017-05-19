@@ -1051,11 +1051,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 15,
+        "price": 16,
         "state": "++",
         "id": "marker-io9soer71",
         "title": "Дверь №1 и №2 вход в Бесарабский рынок со стороны Пузатой",
-        "description": "15 грн 18грн (+2 грн хумус) = тут розовый лаваш ;)",
+        "description": "16 грн одинарная, 20 грн двойная. У них лаваш розовый",
         "marker-size": "medium",
         "marker-color": "#34f3bc",
         "marker-symbol": ""
@@ -2335,6 +2335,46 @@
         "coordinates": [
           30.44453144073486,
           50.454997154151364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25ce4b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-imBwq4bRf",
+        "title": "gastro bar FERMA. Теремки",
+        "description": "Обычная шаурма с необычным названием. На остановке",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45608103275299,
+          50.36811410210216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a6ce7a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ipRJN5wiS",
+        "title": "Сирийская шаурма на Академе",
+        "description": "15 грн обычный, 20 грн двойной. двойной действительно большой",
+        "price": 15,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34616410732269,
+          50.459915131570554
         ]
       }
     }
