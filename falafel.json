@@ -2377,6 +2377,66 @@
           50.459915131570554
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25ce4b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-izpwhm1Ru",
+        "title": "gastro-bar FERMA. Жилянская",
+        "description": "обычная шаурма с необычным дизайном. сеть",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498191714286804,
+          50.4396798437538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d5587f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-inasp6t4S",
+        "title": "Машина с шаурмой на Зоологической",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.46050667762756,
+          50.45254480493017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25ce4b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iIvE0MCmS",
+        "title": "gastro-bar FERMA. Шулявка",
+        "description": "обычная шаурма с необычным дизайном. сеть",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445464849472046,
+          50.45480247369143
+        ]
+      }
     }
   ]
 }
