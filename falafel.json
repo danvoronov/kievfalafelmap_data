@@ -2437,6 +2437,46 @@
           50.45480247369143
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#df5640",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iW1yK9slN",
+        "title": "LinasCAFFE на Жилянского",
+        "description": "",
+        "price": "",
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51539540290832,
+          50.43577798810118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ccc79b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iUayTieqQ",
+        "title": "Linas Cafe на Шота Руставели",
+        "description": "",
+        "price": "",
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521564483642578,
+          50.439830171512384
+        ]
+      }
     }
   ]
 }
