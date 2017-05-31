@@ -192,10 +192,10 @@
     {
       "type": "Feature",
       "properties": {
-        "price": "",
+        "price": 30,
         "state": "+",
         "id": "marker-iudqj8b91",
-        "title": "Шаурма на колёсах \"Капоне Гриль\"",
+        "title": "Шаурма на колёсах",
         "description": "машина с шаурмой",
         "marker-size": "medium",
         "marker-color": "#c66d68",
@@ -214,10 +214,10 @@
       "type": "Feature",
       "properties": {
         "price": 35,
-        "state": "+",
+        "state": "-",
         "id": "marker-iwhohbkj0",
         "title": "Street Food King на подоле",
-        "description": "35 грн вариант лаваш или батон = хумус, огурцы солёные. || https://vk.com/street_food_king",
+        "description": "в мае закрыт. 35 грн вариант лаваш или батон = хумус, огурцы солёные. || https://vk.com/street_food_king",
         "marker-size": "medium",
         "marker-color": "#df5e8c",
         "marker-symbol": ""
@@ -2475,6 +2475,26 @@
         "coordinates": [
           30.521564483642578,
           50.439830171512384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8c3255",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-itJb7m2lp",
+        "title": "Шаурма на Дворце Украина",
+        "description": "",
+        "price": 30,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520883202552795,
+          50.42093638241173
         ]
       }
     }
