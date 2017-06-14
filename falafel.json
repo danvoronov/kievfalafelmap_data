@@ -1702,7 +1702,7 @@
       "type": "Feature",
       "properties": {
         "price": 20,
-        "state": "+",
+        "state": "-",
         "id": "marker-ioi1iuvt0",
         "title": "Биг Бург на Подоле",
         "description": "20 грн в лаваше / 30 грн в булочке",
@@ -2068,7 +2068,7 @@
         "title": "Киоск с шаурмой у конечной маршруток",
         "description": "Давно известный киоск шаурмы весной 17 вписал в меню фалафель.",
         "price": 25,
-        "state": "+"
+        "state": "-"
       },
       "geometry": {
         "type": "Point",
@@ -2228,7 +2228,7 @@
         "title": "Киоск Шаурмы на углу. Подол",
         "description": "Киоск с шаурмой добавил в меню фалафель",
         "price": 25,
-        "state": "+"
+        "state": "-"
       },
       "geometry": {
         "type": "Point",
