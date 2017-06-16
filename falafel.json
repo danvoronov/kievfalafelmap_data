@@ -87,11 +87,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 18,
+        "price": 20,
         "state": "+",
         "id": "marker-io9sqbc24",
         "title": "(24) DONER HOUSE в Бесарабском рынке",
-        "description": "18 грн",
+        "description": "20 грн фалафель, а с хумусом - 25",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -1055,7 +1055,7 @@
         "state": "++",
         "id": "marker-io9soer71",
         "title": "Дверь №1 и №2 вход в Бесарабский рынок со стороны Пузатой",
-        "description": "16 грн одинарная, 20 грн двойная. У них лаваш розовый",
+        "description": "18 грн одинарная, 22 грн двойная. У них лаваш розовый.",
         "marker-size": "medium",
         "marker-color": "#34f3bc",
         "marker-symbol": ""
