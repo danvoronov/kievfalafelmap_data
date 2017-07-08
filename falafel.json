@@ -1094,10 +1094,10 @@
       "type": "Feature",
       "properties": {
         "price": 35,
-        "state": "+",
+        "state": "-",
         "id": "marker-iso9fsnw0",
         "title": "Vegi Street = ТЦ \"Дарница\", 4-й этаж",
-        "description": "35 грн много капусты / летом не работал, осенью по будням = http://vegiland.com.ua/vegi-street-franshiza/ == так же можно купить полуфабрикат \"Фалафель, уп. 12 шт., (Семейная)\" 100.00 грн.",
+        "description": "лето 17го переехали на троещину",
         "marker-size": "medium",
         "marker-color": "#63b6e5",
         "marker-symbol": ""
