@@ -66,11 +66,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 25,
+        "price": 30,
         "state": "+",
         "id": "marker-ix6735pd0",
         "title": "Шаурма на Майдане",
-        "description": "25 грн. хумуса нет. огурцы солёные. размер средний",
+        "description": " хумуса нет. огурцы солёные. размер средний",
         "marker-size": "medium",
         "marker-color": "#f38e4a",
         "marker-symbol": ""
@@ -1946,8 +1946,8 @@
         "marker-symbol": "",
         "id": "marker-i28RvZWYd",
         "title": "Lazzat на Нимецькой",
-        "description": "18 мини / 26 стандарт / 34 макси фалафель ролл = огурцы не соленые",
-        "price": 26,
+        "description": "20 мини / 30 стандарт / 40 макси фалафель ролл = огурцы не соленые",
+        "price": 30,
         "state": "+"
       },
       "geometry": {
