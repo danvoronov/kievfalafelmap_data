@@ -1721,14 +1721,14 @@
     {
       "type": "Feature",
       "properties": {
-        "state": "+",
+        "state": "-",
         "marker-color": "#f38b5b",
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-it3bj22e0",
         "title": "Возле Аромы на Олимпийской",
         "price": 25,
-        "description": "25 грн. киоск на колёсах"
+        "description": "Убрали все МАФы и это -  киоск на колёсах"
       },
       "geometry": {
         "type": "Point",
