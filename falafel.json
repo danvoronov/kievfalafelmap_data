@@ -2497,6 +2497,26 @@
           50.42093638241173
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e7dd42",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i7EP5Ln3N",
+        "title": " фалафель на троещине",
+        "description": "не проверенно",
+        "price": 25,
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.617179870605465,
+          50.51702181465655
+        ]
+      }
     }
   ]
 }
