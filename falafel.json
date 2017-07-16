@@ -25,13 +25,14 @@
     {
       "type": "Feature",
       "properties": {
+        "price": "",
         "id": "marker-it3bj29e0",
         "title": "Happy Doner на рынке Дарница",
         "description": "18 грн",
         "marker-size": "medium",
         "marker-color": "#fa946e",
         "marker-symbol": "",
-        "state": "+"
+        "state": "-"
       },
       "geometry": {
         "type": "Point",
@@ -821,7 +822,7 @@
       "type": "Feature",
       "properties": {
         "price": 20,
-        "state": "-",
+        "state": 0,
         "id": "marker-io9svh43a",
         "title": "зыкрилсь во время реконструкии к Евровидинью. Mr.Gyros  №1 у правого входа в м.Левобережная",
         "description": "20 грн на выбор в лаваше или пите. огурцы свежие. instagram.com/mr.gyros/",
@@ -1093,7 +1094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 35,
+        "price": 40,
         "state": "-",
         "id": "marker-iso9fsnw0",
         "title": "Vegi Street = ТЦ \"Дарница\", 4-й этаж",
@@ -1496,7 +1497,7 @@
         "state": "+",
         "id": "marker-iq45r2rj2",
         "title": "Vegi Street в ТЦ Глобус-1, фуд корт, поворот с круга на торг алею",
-        "description": "50 грн, хумуса нет, весьма обычный фалафель. = http://vegiland.com.ua/vegi-street-franshiza/",
+        "description": "40 грн, хумуса нет, весьма обычный фалафель. = http://vegiland.com.ua/vegi-street-franshiza/",
         "marker-size": "medium",
         "marker-color": "#63b6e5",
         "marker-symbol": ""
@@ -2555,6 +2556,26 @@
         "coordinates": [
           30.46546339988708,
           50.45109656128829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#52beb0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-isiZihm55",
+        "title": "Веги Стрит в ТЦ РайОн",
+        "description": "не проверенно",
+        "price": 40,
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.601944923400882,
+          50.516209999294006
         ]
       }
     }
