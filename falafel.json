@@ -1263,10 +1263,10 @@
       "type": "Feature",
       "properties": {
         "price": 22,
-        "state": "+",
+        "state": "-",
         "id": "marker-iwgqe2bj0",
         "title": "Киоск с шаурмой напротив Мак.Левобережная",
-        "description": "22 грн",
+        "description": "Закрыто в момент рекнострукции",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -2576,6 +2576,26 @@
         "coordinates": [
           30.601944923400882,
           50.516209999294006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff4e60",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iIDFbpmyA",
+        "title": "Шаурма Левобережная",
+        "description": "уцелевшая после реконструкции шаурма",
+        "price": 30,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.598994493484497,
+          50.45185484532799
         ]
       }
     }
