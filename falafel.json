@@ -28,7 +28,7 @@
         "price": "",
         "id": "marker-it3bj29e0",
         "title": "Happy Doner на рынке Дарница",
-        "description": "18 грн",
+        "description": "Закрылись весьма быстро",
         "marker-size": "medium",
         "marker-color": "#fa946e",
         "marker-symbol": "",
@@ -822,7 +822,7 @@
       "type": "Feature",
       "properties": {
         "price": 20,
-        "state": 0,
+        "state": "-",
         "id": "marker-io9svh43a",
         "title": "зыкрилсь во время реконструкии к Евровидинью. Mr.Gyros  №1 у правого входа в м.Левобережная",
         "description": "20 грн на выбор в лаваше или пите. огурцы свежие. instagram.com/mr.gyros/",
@@ -1598,11 +1598,12 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "+",
         "id": "marker-iwjps6u40",
         "title": "Киоск у выхода из метро ТГШевченко",
-        "description": "28 грн",
+        "description": "30 грн",
         "marker-size": "medium",
-        "marker-color": "#f1f075",
+        "marker-color": "#f0b276",
         "marker-symbol": "",
         "price": 28
       },
