@@ -1619,11 +1619,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 38,
+        "price": 44,
         "state": "++",
         "id": "marker-io9sqtez5",
         "title": "Green 13 cafe / внутри Бесарабского рынка",
-        "description": "большой фалафель =  с янв 2017 уже не Vegano hooligano а отдельное заведение",
+        "description": "44 фалафель / 55 с зеленым горошком =  с янв 2017 уже не Vegano hooligano а отдельное заведение",
         "marker-size": "large",
         "marker-color": "#7ec9b1",
         "marker-symbol": "star"
@@ -2597,6 +2597,26 @@
         "coordinates": [
           30.598994493484497,
           50.45185484532799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ca29c7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iVmiLnQg2",
+        "title": "Переход у Мандарин.плаза",
+        "description": "вход в подземный торг центр",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522433519363403,
+          50.44093711576001
         ]
       }
     }
