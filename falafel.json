@@ -2619,6 +2619,46 @@
           50.44093711576001
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#df8535",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i3cXVnEM3",
+        "title": "Шаурма на Оболони",
+        "description": "вход в метро",
+        "price": 30,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.498889088630673,
+          50.5005849504284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e6f864",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iOTG0mYGq",
+        "title": "БигБург Дорогожичи",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44901609420776,
+          50.47399684351744
+        ]
+      }
     }
   ]
 }
