@@ -2148,8 +2148,8 @@
         "marker-symbol": "",
         "id": "marker-iwVJTNCxb",
         "title": "Шаурма у центра Довженко",
-        "description": "",
-        "price": 27,
+        "description": "чай или лимонад в подарок",
+        "price": 28,
         "state": "+"
       },
       "geometry": {
@@ -2267,9 +2267,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "id": "marker-iIL3diygu",
-        "title": "На голосеевской пл",
+        "title": "Василёк на голосеевско",
         "description": "киоск с шаурмой и выпечкой",
-        "price": 30,
+        "price": 25,
         "state": "+"
       },
       "geometry": {
@@ -2657,6 +2657,26 @@
         "coordinates": [
           30.44901609420776,
           50.47399684351744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#95b8ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-iO9HYZVaE",
+        "title": "Шаурма рынка Березняки",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.601311922073364,
+          50.433263136610925
         ]
       }
     }
