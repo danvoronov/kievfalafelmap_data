@@ -716,11 +716,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 28,
+        "price": 35,
         "state": "+",
         "id": "marker-io9ste9p8",
         "title": "№1 = в переходе Севастопольской пл",
-        "description": "28 грн",
+        "description": "",
         "marker-size": "medium",
         "marker-color": "#df2c31",
         "marker-symbol": ""
