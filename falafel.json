@@ -2679,6 +2679,66 @@
           50.433263136610925
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf2fd3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-icPRkWAoF",
+        "title": "Шаурма на колесах: Львовская пл",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.506469011306763,
+          50.45541042054239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77ed33",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ieDcQor8q",
+        "title": "Шаурма на пл Шевченко у перехода",
+        "description": "почему то не положил огурцы, но вкусно",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.449539124965664,
+          50.520296222280685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ecae3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-i7NI7TgBw",
+        "title": "Шаурма на пл Шевченко",
+        "description": "",
+        "price": 25,
+        "state": "+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.44988244771957,
+          50.5205520258098
+        ]
+      }
     }
   ]
 }
