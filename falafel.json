@@ -2739,6 +2739,26 @@
           50.5205520258098
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8180e0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "marker-ip003zRy3",
+        "title": "Vegano Hooligano в Художники Літератори Артисти Музиканти",
+        "description": "как и когда готовят фалафель надо проверить // http://veganohooligano.com.ua/hlam/",
+        "price": "",
+        "state": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51274538040161,
+          50.46828817766422
+        ]
+      }
     }
   ]
 }
