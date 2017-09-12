@@ -50,7 +50,7 @@
         "state": "+",
         "id": "marker-is5o1ida0",
         "title": "КПИ точка крымских татар",
-        "description": "воскресенье выходной. 25 грн _ 35 грн двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения. = так же выходной один месяц: с 15 мая 2018",
+        "description": "воскресенье выходной. есть вариант в панини и можно просить двойной. / огурцы не солёные. приветливый продавец // стоячие места для еды внутри помещения. = так же выходной один месяц: с 15 мая 2018",
         "marker-size": "medium",
         "marker-color": "#a3e46b",
         "marker-symbol": ""
@@ -842,11 +842,11 @@
     {
       "type": "Feature",
       "properties": {
-        "price": 20,
+        "price": 25,
         "state": "+",
         "id": "marker-ivmu5sn70",
         "title": "Шаурма.Бомба автомобиль",
-        "description": "20 грн",
+        "description": "",
         "marker-size": "medium",
         "marker-color": "#f86767",
         "marker-symbol": ""
@@ -1601,11 +1601,11 @@
         "state": "+",
         "id": "marker-iwjps6u40",
         "title": "Киоск у выхода из метро ТГШевченко",
-        "description": "30 грн",
+        "description": "лето в жару днем был закрыт",
         "marker-size": "medium",
         "marker-color": "#f0b276",
         "marker-symbol": "",
-        "price": 28
+        "price": 30
       },
       "geometry": {
         "type": "Point",
